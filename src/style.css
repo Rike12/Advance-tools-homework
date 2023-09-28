@@ -77,7 +77,7 @@
     margin: 10px;
   }
   
-  .email-link a {
+  .email-link {
     display: flex;
     justify-content: center;
     color: var(--primary-color);
